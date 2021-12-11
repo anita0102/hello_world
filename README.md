@@ -1,2 +1,3 @@
 # hello_world
-first repository
+hey there, I am Anita Ahirwar.
+This is my first repository
